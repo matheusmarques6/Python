@@ -1,0 +1,28 @@
+Python 
+
+Variáveis de Tipos de Dados 
+	Variável - local reservado na memória do computador que é usado para armazenar de forma temporária os dados que o programa utiliza 
+
+Tipos de Dados 
+
+String - dados do tipo escrita
+Int  - Númerios inteiros
+Float - números decimais 
+Number - variável numérica 
+bool  - boleano - falso ou verdadeiro 
+
+Casting = conversão de tipos de dados 
+
+Operadores de Comparação
+# ==  igual a 
+# != diferente de
+# > maior que 
+# < menor que
+# >= maior ou igual a 
+# <= menor ou igual a 
+
+Operadores Lógicos 
+
+AND = apenas será verdadeiro quando todas as condições forem verdadeiras
+OR  = apenas será falsa quando todas as condições forem falsas 
+NOT = operador unário = recebe apenas um valor e o inverte - true para false e false para t	rue
