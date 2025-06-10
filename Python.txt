@@ -26,3 +26,23 @@ Operadores Lógicos
 AND = apenas será verdadeiro quando todas as condições forem verdadeiras
 OR  = apenas será falsa quando todas as condições forem falsas 
 NOT = operador unário = recebe apenas um valor e o inverte - true para false e false para t	rue
+
+
+Condicionais - simples, composto e encadeado 
+
+# Simples, Composto , Encadeado 
+# if - se
+# else - se não 
+# elif - Encadeado - adiciona mais condições 
+
+
+Print
+
+Sintaxe - print(objeto, argumento)
+
+# Sintaxe - print(objetos, argumentos)
+
+print('Imprime a mensagem e muda de linha')
+print('Imprime a mensagem e permanece na linha', end='') #end=''- final igual a espaço vazio, ai ele manda a próxima frase para a mesma linha dessa
+print(' ------- ')
+
