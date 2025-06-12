@@ -1,0 +1,1 @@
+# as tuplas são imutáveis - após criada o conteúdo da tupla não pode ser modificado 
